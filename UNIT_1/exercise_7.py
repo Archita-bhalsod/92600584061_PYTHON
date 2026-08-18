@@ -1,5 +1,5 @@
 student = {
-    "Name" : "Richa",
+    "Name" : "Archita",
     "Age" : 20,
     "Course" : "MCA"
 }
