@@ -3,5 +3,5 @@ list1.append(4)
 print("Mutable List: ",list1)
 
 str1 = "Hello"
-str2 = str1 + " Richa"
+str2 = str1 + "Archita"
 print("Immutable String: ",str2)
